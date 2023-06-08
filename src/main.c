@@ -7,8 +7,6 @@
 
 #include <zephyr/kernel.h>
 #include <zephyr/usb/usb_device.h>
-#include <zephyr/usb/usbd.h>
-#include <zephyr/usb/class/usbd_msc.h>
 #include <zephyr/fs/fs.h>
 #include <stdio.h>
 
